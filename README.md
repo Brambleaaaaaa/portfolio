@@ -17,7 +17,7 @@
 | 作品 | 类型 | 状态 | 入口 |
 |---|---|---|---|
 | [世界终焉之时 Endfaryth](./games/endfaryth) | 剧情向视觉小说 / JRPG | Steam Demo | [Steam](https://store.steampowered.com/app/5111560/) |
-| [罪船 The Evil Ship](./games/evil-ship) | 叙事冒险 / 文字 AVG | Demo | [TapTap](https://tap.cn/lDNloJuU9) |
+| [罪船 The Evil Ship](./games/evil-ship) | 叙事冒险 / 文字 AVG | Demo | [项目页](./games/evil-ship) |
 | [已离开工位](./games/left-the-desk) | 动作 / Game Jam | 已上线 | [TapTap](https://tap.cn/lDNloJuU9) |
 | [Correct Error](./games/correct-error) | 反乌托邦 / 剧情 / 恐怖 | 已上线（9.1） | [TapTap](https://tap.cn/lrdmk1ZrY) |
 | [通胀螺旋](./games/inflation-spiral) | 经济机制原型（Unity） | 原型 | 见项目页 |
