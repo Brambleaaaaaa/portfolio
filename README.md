@@ -79,6 +79,9 @@
 | 小黑盒 | 个人主页 | https://www.xiaoheihe.cn/bbs/user_profile_share?user_id=aa6369f22201&h_src=heyboxapp |
 | 小黑盒 | 世界终焉之时 | https://api.xiaoheihe.cn/game/share_game_detail?appid=3e1b69c30644&game_type=pc&h_camp=game&h_src=YXBwX3NoYXJl |
 | B 站 | 乌络游戏-祁木良 | https://b23.tv/x1DKl5q |
+| 抖音 | 个人随笔（抖音号 61113198594） | https://www.douyin.com/search/61113198594?type=user |
+| 抖音 | 工作室宣传（抖音号 61690686111） | https://www.douyin.com/search/61690686111?type=user |
+| 抖音 | AI 漫剧号 | 建设中 |
 | Steam | Endfaryth Demo | https://store.steampowered.com/app/5111560/ |
 
 ---
