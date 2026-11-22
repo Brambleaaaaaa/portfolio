@@ -2,6 +2,13 @@
 
 这里汇总视频类作品：AI 漫剧、游戏影像与剪辑。
 
+## 世界终焉之时 · 宣传 PV
+
+[![PV 海报](./endfaryth-pv-poster.jpg)](https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv)
+
+- 时长 2 分 33 秒 ｜ 2560×1440 / 24fps ｜ 中文 ｜ 无商店界面版
+- 下载：[Endfaryth-PV-CN-NoStoreUI.mp4](https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv)
+
 ## AI 漫剧
 
 生产管线已开源：[ai-manju](https://github.com/Brambleaaaaaa/ai-manju)

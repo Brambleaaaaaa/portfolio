@@ -22,6 +22,12 @@ Visual Novel · JRPG · Interactive Fiction · Steampunk · Post-apocalyptic · 
 
 ![scene](./screenshot-scene.jpg)
 
+## 宣传 PV
+
+[![PV 海报](../../videos/endfaryth-pv-poster.jpg)](https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv)
+
+2 分 33 秒，中文，无商店界面版。下载见 [Releases](https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv)。
+
 ## 制作
 
 - 引擎：Ren'Py
