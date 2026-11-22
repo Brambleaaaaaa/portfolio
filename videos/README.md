@@ -7,7 +7,7 @@
 [![PV 海报](./endfaryth-pv-poster.jpg)](https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv)
 
 - 时长 2 分 33 秒 ｜ 2560×1440 / 24fps ｜ 中文 ｜ 无商店界面版
-- 下载：[Endfaryth-PV-CN-NoStoreUI.mp4](https://github.com/Brambleaaaaaa/portfolio/releases/tag/endfaryth-pv)
+- 下载：[Endfaryth_PV.mp4](https://github.com/Brambleaaaaaa/portfolio/releases/download/endfaryth-pv/Endfaryth_PV.mp4)
 
 ## AI 漫剧
 
