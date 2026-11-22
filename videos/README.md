@@ -14,7 +14,7 @@
 - 角色一致性靠参考图编辑 LoRA + 四视图 LoRA；镜头一致性靠深度/姿态 Control。
 - 成片环节使用 Seedance 2.5（付费接口）。
 
-样帧见 [ai-manju/samples](https://github.com/Brambleaaaaaa/ai-manju/tree/main/samples)。
+样帧与补帧测试片段见 [ai-manju/samples](https://github.com/Brambleaaaaaa/ai-manju/tree/main/samples)。
 
 ## 游戏影像
 
