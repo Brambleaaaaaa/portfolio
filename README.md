@@ -4,7 +4,7 @@
 
 **独立游戏制作人｜乌络游戏 Utoecho Games**
 
-游戏 / 小说 / 剧本 / 影视 / 策划案
+游戏 / 小说 / 剧本 / 影视 / 音乐 / 策划案
 
 [GitHub 主页](https://github.com/Brambleaaaaaa) · [Vibe Coding](https://github.com/Brambleaaaaaa/vibecoding) · [AI 漫剧](https://github.com/Brambleaaaaaa/ai-manju)
 
@@ -42,6 +42,9 @@
 | [01 小乌龟](./novels/01_小乌龟.docx) | 短篇 | 约 4,600 字，第一人称返乡叙事 |
 | [03 练笔 02](./novels/03_练笔02.docx) | 中篇练笔 | 约 11,700 字，架空反乌托邦 |
 | [04 Never for leave](./novels/04_Never-for-leave_歌词.docx) | 歌词 | 中英对照，含编曲提示 |
+| [05 时间怎么会等人呢，等你的人是我](./novels/05_时间怎么会等人呢_等你的人是我.docx) | 短篇 | 约 3,300 字，#人外 #科幻 #无性向 #时间 |
+| [06 仰头的男人](./novels/06_仰头的男人.docx) | 短篇 | 约 6,500 字 |
+| [07 爱人被寄生，弹幕却说我是虐文男配](./novels/07_爱人被寄生_弹幕却说我是虐文男配.docx) | 短篇 | 约 6,600 字，番茄小说已签约 · [番茄数据](./novels/assets/爱人被寄生_番茄数据_20261124.jpg) |
 
 ## 剧本
 
@@ -57,6 +60,12 @@
 - **AI 漫剧生产管线**：ComfyUI + Krea2，从角色资产到 Seedance 成片，26 个工作流已在 [ai-manju](https://github.com/Brambleaaaaaa/ai-manju) 开源。
 - **视频作品与剪辑**：见 [B 站主页](https://b23.tv/x1DKl5q) 与 [videos 说明](./videos)。
 - **游戏影像**：见各游戏项目页。
+
+## 音乐
+
+- 游戏、短片与个人项目的**约稿配乐**，含《Correct Error》《世界终焉之时》相关曲目。
+- 原创歌曲 **《逢》（Rendezvous）**：由本人制作并发行，负责作词。
+- 全部曲目、时长与音频文件：[music](./music)
 
 ## 策划案
 

@@ -14,6 +14,22 @@
 
 - [《他曾执意如此》策划案（PDF）](./design-doc.pdf)
 
+## 策划与美术需求（节选）
+
+Jam 期间的分关策划、动作清单与场景草图：
+
+| 第二关 · 美术需求 | 第四关 · 加班 Boss 流程 |
+|---|---|
+| [![第二关美术需求](./planning/01_第二关_美术需求.jpg)](./planning/01_第二关_美术需求.jpg) | [![第四关流程](./planning/02_第四关_加班_Boss流程.jpg)](./planning/02_第四关_加班_Boss流程.jpg) |
+
+| 主角与老板 · 动作设定 | 动作清单 |
+|---|---|
+| [![动作设定](./planning/03_主角与老板_动作设定.jpg)](./planning/03_主角与老板_动作设定.jpg) | [![动作清单](./planning/04_动作清单.jpg)](./planning/04_动作清单.jpg) |
+
+| 第四关 · 老板动作草图 | 第二关 · 工位场景草图 | 文件与部门 · UI 草图 |
+|---|---|---|
+| [![老板动作](./planning/05_第四关_老板动作草图.jpg)](./planning/05_第四关_老板动作草图.jpg) | [![工位场景](./planning/06_第二关_工位场景草图.jpg)](./planning/06_第二关_工位场景草图.jpg) | [![文件UI](./planning/07_文件与部门_UI草图.jpg)](./planning/07_文件与部门_UI草图.jpg) |
+
 ## 下载
 
 Windows 包体见 [Releases](https://github.com/Brambleaaaaaa/portfolio/releases/tag/left-the-desk-demo)。
