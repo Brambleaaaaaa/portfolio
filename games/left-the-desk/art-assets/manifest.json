@@ -119,13 +119,6 @@
     "height": 1280
   },
   {
-    "index": 18,
-    "category": "场景与背景",
-    "file": "场景与背景/018_过场_新闻_奇迹婴儿.jpg",
-    "width": 643,
-    "height": 355
-  },
-  {
     "index": 19,
     "category": "角色立绘",
     "file": "角色立绘/019_主角_插兜.jpg",
@@ -138,13 +131,6 @@
     "file": "场景与背景/020_道具_前台_线稿.jpg",
     "width": 1080,
     "height": 1360
-  },
-  {
-    "index": 21,
-    "category": "UI与图标",
-    "file": "UI与图标/021_UI_流程面板_A.jpg",
-    "width": 1011,
-    "height": 576
   },
   {
     "index": 22,
@@ -210,13 +196,6 @@
     "height": 1280
   },
   {
-    "index": 31,
-    "category": "UI与图标",
-    "file": "UI与图标/031_UI_录像带货架.jpg",
-    "width": 1091,
-    "height": 618
-  },
-  {
     "index": 32,
     "category": "UI与图标",
     "file": "UI与图标/032_图标_显示器鼠标.jpg",
@@ -243,13 +222,6 @@
     "file": "UI与图标/035_UI_白色框线.jpg",
     "width": 1708,
     "height": 962
-  },
-  {
-    "index": 36,
-    "category": "UI与图标",
-    "file": "UI与图标/036_LOGO_通胀螺旋_标题画面.jpg",
-    "width": 880,
-    "height": 499
   },
   {
     "index": 37,
@@ -294,13 +266,6 @@
     "height": 1280
   },
   {
-    "index": 43,
-    "category": "UI与图标",
-    "file": "UI与图标/043_LOGO_通胀螺旋_标题画面_变体.jpg",
-    "width": 1109,
-    "height": 639
-  },
-  {
     "index": 44,
     "category": "头像与表情",
     "file": "头像与表情/044_表情_晕眩气泡.jpg",
@@ -327,13 +292,6 @@
     "file": "漫画分镜/047_分镜_老板训话.jpg",
     "width": 2739,
     "height": 1280
-  },
-  {
-    "index": 48,
-    "category": "UI与图标",
-    "file": "UI与图标/048_UI_监控面板_A.jpg",
-    "width": 1920,
-    "height": 1080
   },
   {
     "index": 49,
@@ -476,13 +434,6 @@
     "height": 1280
   },
   {
-    "index": 69,
-    "category": "场景与背景",
-    "file": "场景与背景/069_场景_炸鸡店橱窗.jpg",
-    "width": 444,
-    "height": 345
-  },
-  {
     "index": 70,
     "category": "粒子与素材",
     "file": "粒子与素材/070_粒子_黑点_05.jpg",
@@ -495,13 +446,6 @@
     "file": "场景与背景/071_场景_卧室.jpg",
     "width": 1920,
     "height": 1080
-  },
-  {
-    "index": 72,
-    "category": "UI与图标",
-    "file": "UI与图标/072_UI_监控面板_B.jpg",
-    "width": 1066,
-    "height": 600
   },
   {
     "index": 73,
@@ -588,13 +532,6 @@
     "height": 1693
   },
   {
-    "index": 85,
-    "category": "场景与背景",
-    "file": "场景与背景/085_场景_炸鸡店货架.jpg",
-    "width": 1920,
-    "height": 1080
-  },
-  {
     "index": 86,
     "category": "UI与图标",
     "file": "UI与图标/086_图标_红色恶魔.jpg",
@@ -630,13 +567,6 @@
     "height": 1080
   },
   {
-    "index": 91,
-    "category": "UI与图标",
-    "file": "UI与图标/091_UI_监控面板_C.jpg",
-    "width": 1920,
-    "height": 1080
-  },
-  {
     "index": 92,
     "category": "头像与表情",
     "file": "头像与表情/092_头像_老板_西装肖像.jpg",
@@ -651,25 +581,11 @@
     "height": 1080
   },
   {
-    "index": 94,
-    "category": "UI与图标",
-    "file": "UI与图标/094_UI_流程面板_B.jpg",
-    "width": 1061,
-    "height": 595
-  },
-  {
     "index": 95,
     "category": "角色立绘",
     "file": "角色立绘/095_主角_行走.jpg",
     "width": 1279,
     "height": 1693
-  },
-  {
-    "index": 96,
-    "category": "UI与图标",
-    "file": "UI与图标/096_UI_录像带货架_黄按钮.jpg",
-    "width": 1130,
-    "height": 636
   },
   {
     "index": 97,
@@ -719,20 +635,6 @@
     "file": "头像与表情/104_头像_Q版_耳机.jpg",
     "width": 1080,
     "height": 1360
-  },
-  {
-    "index": 105,
-    "category": "场景与背景",
-    "file": "场景与背景/105_场景_炸鸡店门头.jpg",
-    "width": 788,
-    "height": 328
-  },
-  {
-    "index": 106,
-    "category": "角色立绘",
-    "file": "角色立绘/106_老板_西装抱手.jpg",
-    "width": 502,
-    "height": 850
   },
   {
     "index": 107,
@@ -833,13 +735,6 @@
     "height": 1080
   },
   {
-    "index": 121,
-    "category": "概念插画",
-    "file": "概念插画/121_插画_FREE.jpg",
-    "width": 398,
-    "height": 296
-  },
-  {
     "index": 122,
     "category": "设定参考",
     "file": "设定参考/122_设定_角色三视图.jpg",
@@ -852,13 +747,6 @@
     "file": "设定参考/123_设定_灰色人形_正面.jpg",
     "width": 960,
     "height": 1410
-  },
-  {
-    "index": 124,
-    "category": "场景与背景",
-    "file": "场景与背景/124_过场_新闻_武装冲突.jpg",
-    "width": 643,
-    "height": 355
   },
   {
     "index": 125,

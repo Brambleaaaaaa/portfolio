@@ -20,6 +20,21 @@
 |---|---|
 | ![risk](./cg-risk.png) | ![char](./char.png) |
 
+## 美术资产
+
+原型期间产出的界面、场景与插画资产，共 **16 张**。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
+
+| UI 与图标（9） | 场景与过场（5） |
+|---|---|
+| [![UI与图标](./art-assets/_previews/UI与图标.jpg)](./art-assets/UI与图标/) | [![场景与过场](./art-assets/_previews/场景与过场.jpg)](./art-assets/场景与过场/) |
+| 标题画面与 Logo、监控面板、流程面板、录像带货架 | 炸鸡店橱窗、货架、门头与新闻过场 |
+
+### 插画与角色（2）
+
+[![插画与角色](./art-assets/_previews/插画与角色.jpg)](./art-assets/插画与角色/)
+
+西装老板立绘与 FREE 拼贴插画。
+
 ## 工程说明
 
 - 引擎：Unity
