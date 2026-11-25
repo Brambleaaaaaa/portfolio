@@ -24,6 +24,15 @@
 - [策划概述（手写版整理）](./design-overview.pdf)
 - [UI 布局设计](./ui-layout.pdf)
 
+## 美术资产
+
+Demo 阶段的 UI 界面与场景设定稿，共 **9 张**，部分界面保留策划批注（绿色手写标注）。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
+
+| UI 与界面（7） | 场景与设定（2） |
+|---|---|
+| [![UI与界面](./art-assets/_previews/UI与界面.jpg)](./art-assets/UI与界面/) | [![场景与设定](./art-assets/_previews/场景与设定.jpg)](./art-assets/场景与设定/) |
+| 船员与物资、补给对话、队伍编成、船舱主界面、仪式阵盘、种植与航海日志、船员名册 | 船舱剖面图与海域地图 |
+
 ## 制作
 
 - 剧本采用“角色缩写 + 旁白 + 画面效果 + CG/BG”的表格化写法，方便直接导入引擎。

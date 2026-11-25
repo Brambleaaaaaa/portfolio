@@ -1,0 +1,65 @@
+[
+  {
+    "index": 1,
+    "category": "场景与设定",
+    "file": "场景与设定/01_设定_船舱剖面图.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "index": 2,
+    "category": "场景与设定",
+    "file": "场景与设定/02_场景_海域地图.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "index": 3,
+    "category": "UI与界面",
+    "file": "UI与界面/03_UI_船员与物资界面_标注.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "index": 4,
+    "category": "UI与界面",
+    "file": "UI与界面/04_UI_补给与对话界面_Day1.jpg",
+    "width": 1080,
+    "height": 592
+  },
+  {
+    "index": 5,
+    "category": "UI与界面",
+    "file": "UI与界面/05_UI_队伍编成界面_标注.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "index": 6,
+    "category": "UI与界面",
+    "file": "UI与界面/06_UI_船舱主界面.jpg",
+    "width": 2400,
+    "height": 1080
+  },
+  {
+    "index": 7,
+    "category": "UI与界面",
+    "file": "UI与界面/07_UI_仪式阵盘界面_标注.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "index": 8,
+    "category": "UI与界面",
+    "file": "UI与界面/08_UI_种植与航海日志界面_标注.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "index": 9,
+    "category": "UI与界面",
+    "file": "UI与界面/09_UI_船员名册.jpg",
+    "width": 1920,
+    "height": 1080
+  }
+]
