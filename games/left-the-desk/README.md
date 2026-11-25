@@ -35,6 +35,43 @@ Jam 期间的分关策划、动作清单与场景草图：
 - [音效、音乐需求与过渡文案](./planning/08_策划草案_音效音乐与文案.md)：主界面、街道、节奏游戏、第二至四关的音效清单，BGM 选曲，以及垃圾话与工作卡文案。
 - [文案部分](./planning/09_策划草案_文案部分.md)：与上一份内容一致，保留原始文件。
 
+## 美术资产
+
+Jam 期间产出的角色立绘、UI、场景、特效与概念图，共 **127 张**（已去除 2 张完全重复文件），按类型分目录存放。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
+
+### 角色立绘（37）
+
+[![角色立绘](./art-assets/_previews/角色立绘.jpg)](./art-assets/角色立绘/)
+
+主角与老板的站姿、行走、指向、蹲姿、整理衣领等动作差分，含西装版老板肖像。
+
+### UI 与图标（23）
+
+[![UI与图标](./art-assets/_previews/UI与图标.jpg)](./art-assets/UI与图标/)
+
+《通胀螺旋》标题画面与 Logo、皇冠时钟、文件夹、监控面板、录像带货架、流程面板、红色准星与分隔线等界面元素。
+
+### 粒子与素材（28）
+
+[![粒子与素材](./art-assets/_previews/粒子与素材.jpg)](./art-assets/粒子与素材/)
+
+黑、灰、棕、粉四组圆点粒子及点群，用于转场与氛围叠加。
+
+| 头像与表情（8） | 场景与背景（14） |
+|---|---|
+| [![头像与表情](./art-assets/_previews/头像与表情.jpg)](./art-assets/头像与表情/) | [![场景与背景](./art-assets/_previews/场景与背景.jpg)](./art-assets/场景与背景/) |
+| 主角与老板的 Q 版头像、西装肖像与晕眩表情气泡 | 办公室、卧室、地铁站台与车厢线稿、炸鸡店场景、新闻过场 |
+
+| 特效（3） | 漫画分镜（3） |
+|---|---|
+| [![特效](./art-assets/_previews/特效.jpg)](./art-assets/特效/) | [![漫画分镜](./art-assets/_previews/漫画分镜.jpg)](./art-assets/漫画分镜/) |
+| “无效！”“异议！”与感叹号漫画字效 | 老板训话、主角质疑与“外卖”对话分镜 |
+
+| 概念插画（6） | 设定参考（5） |
+|---|---|
+| [![概念插画](./art-assets/_previews/概念插画.jpg)](./art-assets/概念插画/) | [![设定参考](./art-assets/_previews/设定参考.jpg)](./art-assets/设定参考/) |
+| 主视觉“已离开工位”、FREE 拼贴与情绪插画 | 人体动作草图、角色三视图与灰色人形参考 |
+
 ## 下载
 
 Windows 包体见 [Releases](https://github.com/Brambleaaaaaa/portfolio/releases/tag/left-the-desk-demo)。
