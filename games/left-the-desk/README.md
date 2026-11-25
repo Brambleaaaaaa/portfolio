@@ -30,6 +30,11 @@ Jam 期间的分关策划、动作清单与场景草图：
 |---|---|---|
 | [![老板动作](./planning/05_第四关_老板动作草图.jpg)](./planning/05_第四关_老板动作草图.jpg) | [![工位场景](./planning/06_第二关_工位场景草图.jpg)](./planning/06_第二关_工位场景草图.jpg) | [![文件UI](./planning/07_文件与部门_UI草图.jpg)](./planning/07_文件与部门_UI草图.jpg) |
 
+### 策划草案
+
+- [音效、音乐需求与过渡文案](./planning/08_策划草案_音效音乐与文案.md)：主界面、街道、节奏游戏、第二至四关的音效清单，BGM 选曲，以及垃圾话与工作卡文案。
+- [文案部分](./planning/09_策划草案_文案部分.md)：与上一份内容一致，保留原始文件。
+
 ## 下载
 
 Windows 包体见 [Releases](https://github.com/Brambleaaaaaa/portfolio/releases/tag/left-the-desk-demo)。

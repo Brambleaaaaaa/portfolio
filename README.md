@@ -53,7 +53,7 @@
 | 世界终焉之时 · 主线剧本 | 游戏剧本 | [docx](./screenplays/01_世界终焉之时_主线剧本.docx) |
 | 雪烬 | 游戏剧本 | [docx](./screenplays/02_雪烬_剧本.docx) |
 | 罪船 | 游戏剧本 | [docx](./screenplays/03_罪船_剧本.docx) |
-| 跑团剧本 | 桌面跑团 | [1](./screenplays/跑团_1.md) / [文案](./screenplays/跑团_文案部分.md) / [试稿](./screenplays/跑团_试稿.md) |
+| 跑团剧本 | 桌面跑团 | [试稿](./screenplays/跑团_试稿.md) |
 
 ## 影视与 AI 漫剧
 
