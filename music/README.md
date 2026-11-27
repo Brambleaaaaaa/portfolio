@@ -23,9 +23,9 @@
 
 全部文件托管在 [music-v1 Release](https://github.com/Brambleaaaaaa/portfolio/releases/tag/music-v1)。
 
-## 个人曲目
+## 收藏曲目
 
-个人项目与日常练习曲目，均为 192 kbps MP3，点击即可在浏览器中试听。
+收藏了喜欢的影视飓风的一些曲目作品，均为 192 kbps MP3，点击即可在浏览器中试听。
 
 | # | 曲目 | 时长 | 试听 |
 |---|---|---|---|
