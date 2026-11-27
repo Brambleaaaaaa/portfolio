@@ -23,3 +23,7 @@ Windows 包体见 [Releases](https://github.com/Brambleaaaaaa/portfolio/releases
 ---
 
 [← 返回游戏列表](../README.md)
+
+<p align="center"><img src="../../assets/xmas/dc_star.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

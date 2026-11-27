@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/xmas/hdr_planning.svg" width="100%" alt="策划案 · Merry Christmas"></p>
+
 # 完整策划案
 
 从玩法、数值、程序对接到世界观与剧本规范的项目文档。仅收录本人原创、可公开的部分。
@@ -33,3 +35,7 @@
 ---
 
 [← 返回作品集](../README.md)
+
+<p align="center"><img src="../assets/xmas/dc_nerv.webp" width="74" alt="">&nbsp;&nbsp;<img src="../assets/xmas/dc_star.webp" width="36" alt=""></p>
+
+<p align="center"><img src="../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

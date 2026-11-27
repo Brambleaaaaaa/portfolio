@@ -37,7 +37,9 @@ Jam 期间的分关策划、动作清单与场景草图：
 
 ## 美术资产
 
-Jam 期间产出的角色立绘、UI、场景、特效与概念图，共 **111 张**（已去除 2 张完全重复文件），按类型分目录存放。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
+Jam 期间产出的角色立绘、UI、场景、特效与概念图，共 **111 张**（已去除 2 张完全重复文件，另有 16 张《通胀螺旋》相关资产已移至该项目），按类型分目录存放。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
+
+[![美术资产总览](./art-assets/_overview.jpg)](./art-assets/_overview.jpg)
 
 ### 角色立绘（36）
 
@@ -79,3 +81,7 @@ Windows 包体见 [Releases](https://github.com/Brambleaaaaaa/portfolio/releases
 ---
 
 [← 返回游戏列表](../README.md)
+
+<p align="center"><img src="../../assets/xmas/dc_flower.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

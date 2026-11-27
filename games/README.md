@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/xmas/hdr_games.svg" width="100%" alt="独立游戏 · Merry Christmas"></p>
+
 # 独立游戏
 
 乌络游戏（Utoecho Games）的独立游戏与原型。每个项目一个目录，包含介绍、截图、设计文档与可下载包体。
@@ -27,3 +29,7 @@
 
 - 全部作品版权归乌络游戏 / 作者本人所有。
 - Demo 包体仅供试玩，不含商业授权。
+
+<p align="center"><img src="../assets/xmas/p2_yu.webp" width="150" alt="">&nbsp;&nbsp;<img src="../assets/xmas/dc_peace.webp" width="112" alt=""></p>
+
+<p align="center"><img src="../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

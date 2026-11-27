@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/xmas/hdr_screenplays.svg" width="100%" alt="剧本 · Merry Christmas"></p>
+
 # 剧本
 
 游戏剧本、AI 短片剧本、桌面跑团剧本与片段试稿。
@@ -19,3 +21,7 @@
 ---
 
 [← 返回作品集](../README.md)
+
+<p align="center"><img src="../assets/xmas/dc_bubble.webp" width="76" alt="">&nbsp;&nbsp;<img src="../assets/xmas/dc_star.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

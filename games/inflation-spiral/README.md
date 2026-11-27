@@ -24,6 +24,8 @@
 
 原型期间产出的界面、场景与插画资产，共 **16 张**。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
 
+[![美术资产总览](./art-assets/_overview.jpg)](./art-assets/_overview.jpg)
+
 | UI 与图标（9） | 场景与过场（5） |
 |---|---|
 | [![UI与图标](./art-assets/_previews/UI与图标.jpg)](./art-assets/UI与图标/) | [![场景与过场](./art-assets/_previews/场景与过场.jpg)](./art-assets/场景与过场/) |
@@ -48,3 +50,7 @@ Windows 原型包见 [Releases](https://github.com/Brambleaaaaaa/portfolio/relea
 ---
 
 [← 返回游戏列表](../README.md)
+
+<p align="center"><img src="../../assets/xmas/dc_star.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

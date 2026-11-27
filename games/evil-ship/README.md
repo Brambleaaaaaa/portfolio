@@ -28,6 +28,8 @@
 
 Demo 阶段的 UI 界面与场景设定稿，共 **9 张**，部分界面保留策划批注（绿色手写标注）。点击预览图可进入对应目录查看原图；完整清单见 [manifest.json](./art-assets/manifest.json)。
 
+[![美术资产总览](./art-assets/_overview.jpg)](./art-assets/_overview.jpg)
+
 | UI 与界面（7） | 场景与设定（2） |
 |---|---|
 | [![UI与界面](./art-assets/_previews/UI与界面.jpg)](./art-assets/UI与界面/) | [![场景与设定](./art-assets/_previews/场景与设定.jpg)](./art-assets/场景与设定/) |
@@ -46,3 +48,7 @@ Windows Demo 包体见 [Releases](https://github.com/Brambleaaaaaa/portfolio/rel
 ---
 
 [← 返回游戏列表](../README.md)
+
+<p align="center"><img src="../../assets/xmas/dc_flower.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

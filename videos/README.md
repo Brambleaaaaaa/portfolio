@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/xmas/hdr_videos.svg" width="100%" alt="影视与 AI 漫剧 · Merry Christmas"></p>
+
 # 影视与 AI 漫剧
 
 这里汇总视频类作品：AI 漫剧、游戏影像与剪辑。
@@ -38,3 +40,7 @@ B 站主页：<https://b23.tv/x1DKl5q>
 ---
 
 [← 返回作品集](../README.md)
+
+<p align="center"><img src="../assets/xmas/dc_profile.webp" width="110" alt="">&nbsp;&nbsp;<img src="../assets/xmas/dc_star.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>

@@ -27,3 +27,7 @@
 ---
 
 [← 返回游戏列表](../README.md)
+
+<p align="center"><img src="../../assets/xmas/dc_flower.webp" width="38" alt=""></p>
+
+<p align="center"><img src="../../assets/xmas/footer.svg" width="100%" alt="Merry Christmas"></p>
